@@ -23,7 +23,7 @@ This home assignment focused on dimensionality reduction through Principal Compo
 **Classification:** Naïve Bayes and Decision Tree Classifiers
 
 ### Data:
-The data corresponds to the [Superconductivty Data](https://archive-beta.ics.uci.edu/dataset/464/superconductivty+data), which is contains two files: 
+The data corresponds to the [Superconductivty Data](https://archive-beta.ics.uci.edu/dataset/464/superconductivty+data), which contains two files: 
 - train.csv contains 81 features extracted from 21263 superconductors along with the critical temperature in the 82nd column
 - unique_m.csv contains the chemical formula broken up for all the 21263 superconductors from the train.csv file.  The last two columns have the critical temperature and chemical formula.
 
